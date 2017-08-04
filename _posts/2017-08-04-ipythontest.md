@@ -99,23 +99,23 @@ for val in pathlists:
 
 
 
-![png](output_4_1.png)
+![png](/ipynb/jekyll_test_files/output_4_1.png)
 
 
 
-![png](output_4_2.png)
+![png](/ipynb/jekyll_test_files/output_4_2.png)
 
 
 
-![png](output_4_3.png)
+![png](/ipynb/jekyll_test_files/output_4_3.png)
 
 
 
-![png](output_4_4.png)
+![png](/ipynb/jekyll_test_files/output_4_4.png)
 
 
 
-![png](output_4_5.png)
+![png](/ipynb/jekyll_test_files/output_4_5.png)
 
 
 
