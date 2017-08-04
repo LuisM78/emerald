@@ -95,7 +95,7 @@ for val in pathlists:
 ```
 
 
-![png](/ipynb/jekyll_test_files/output_4_0.png)
+![png](ipynb/jekyll_test_files/output_4_0.png)
 
 
 
